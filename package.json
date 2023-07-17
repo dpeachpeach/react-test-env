@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Integrate React into jekyll site as described by Alli Zadrozny",
   "main": "webpack.config.js",
+  "license": "MIT",
   "scripts": {
     "flow": "flow",
     "start": "jekyll serve",
@@ -18,7 +19,6 @@
     "react"
   ],
   "author": "Frank Dellaert",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dellaert/gh-pages-jekyll-react/issues"
   },
@@ -29,18 +29,17 @@
     "@babel/preset-env": "^7.11.0",
     "@babel/preset-flow": "^7.10.4",
     "@babel/preset-react": "^7.10.4",
-    "babel-core": "^7.0.0",
-    "css-loader": "^4.3.0",
     "babel-loader": "^8.1.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
+    "css-loader": "^4.3.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.3",
-    "webpack": "^5.0.0",
+    "webpack": "^5.88.1",
     "webpack-cli": "^4.0.0"
   },
-  "resolutions":{
+  "resolutions": {
     "react-scripts/webpack-dev-server/selfsigned/node-forge": "^0.10.0"
   },
   "dependencies": {
