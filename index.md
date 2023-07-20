@@ -19,8 +19,11 @@ And here is another one:
 
 In addition, as is customary with Jekyll sites, the `News` tab is generated based on markdown files in the `_posts` folder.
 
+<div id="kepler"></div>
+<br/>
+
 ## Code Structure
-The above is rendered based on this markdown code in `index.md`:
+The above is based on this markdown code in `index.md`:
 
 ```md
 Below is one component:

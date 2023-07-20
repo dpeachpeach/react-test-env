@@ -24,7 +24,7 @@ const ButtonsShowcase = () => (
       Danger
     </Button>
     <Button variant="info" className="mr-1">
-      Info
+     WAWADAWDWA 
     </Button>
     <Button variant="light" className="mr-1">
       Light
